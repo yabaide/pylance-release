@@ -24,9 +24,9 @@ To find your version, you can either:
 - Select "View: Toggle Output" from the command palette (Ctrl+Shift+P on Windows/Linux, Command+Shift+P on macOS), then select "Python Language Server" in the dropdown on the right. Look for the line Pylance Language Server version X in the console.
 -->
 
--   Language Server version: XXX
--   OS and version: XXX
--   Python version (& distribution if applicable, e.g. Anaconda): XXX
+- Language Server version: XXX
+- OS and version: XXX
+- Python version (& distribution if applicable, e.g. Anaconda): XXX
 
 ## Code Snippet
 
